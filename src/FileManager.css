@@ -1,0 +1,27 @@
+.filemanager {
+  width: fit-content;
+  padding: 10px;
+  margin: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.filemanager.black {
+  background-color: rgba(236, 236, 236, 0.946);
+}
+
+.filemanager.white {
+  background-color: #fff;
+}
+
+.filemanager input {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+.filemanager .title {
+  font-size: 18px;
+  font-weight: normal;
+  margin-bottom: 10px;
+}
